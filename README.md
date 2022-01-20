@@ -10,8 +10,7 @@ There are altogether 13 columns,614 rows in our data set. Of them Loan_Status is
 Now let us look in to the each variable and can make some assumptions.(It’s just assumptions right, there is no harm in just assuming few statements)
 Loan ID - As the name suggests each person should have a unique loan ID.
 Gender - In general it is male or female. No offence for not including the third gender.
-Married - Applicant who is married is represented by Y and not married is represented as N. The information regarding whether the applicant who is married is divorced or not has not been provided. So we
-don’t need to worry regarding all these.
+Married - Applicant who is married is represented by Y and not married is represented as N. The information regarding whether the applicant who is married is divorced or not has not been provided. So we don’t need to worry regarding all these.
 Dependents - the number of people dependent on the applicant who has taken loan has been provided.
 Education - It is either non -graduate or graduate. The assumption I can make is “ The probability of clearing the loan amount would be higher if the applicant is a graduate”.
 Self_Employed - As the name suggests Self Employed means , he/she is employed for himself/herself only. So freelancer or having a own business might come in this category. An applicant who is self employed is represented by Y and the one who is not is represented by N.
